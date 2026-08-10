@@ -1,4 +1,4 @@
-# Analytics Pipeline
+# Module 2 - Analytics Pipeline
 
 ## Overview
 
