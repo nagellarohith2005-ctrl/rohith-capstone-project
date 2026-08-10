@@ -1,4 +1,4 @@
-# Module 2 - Data Pipeline
+# Module 1 - Data Pipeline
 
 ## Overview
 
